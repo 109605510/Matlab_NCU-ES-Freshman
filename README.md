@@ -5,6 +5,6 @@
 每學期作業考試內容會有更動
 
 Matlab官方IDE是要付費的，入學後可用portal帳號去下載授權使用。
-&nbsp; https://ca.ncu.edu.tw/software/index.php
+https://ca.ncu.edu.tw/software/index.php
 
 電腦空間不夠的同學，可以只下載基本的Matlab包就好，其他包有用到再補下載。
